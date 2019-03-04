@@ -14,7 +14,7 @@ import (
 
 	"github.com/lair-framework/api-server/client"
 	"github.com/lair-framework/go-lair"
-	"github.com/lair-framework/go-nessus"
+	"github.com/binary1985/go-nessus"
 )
 
 const (
